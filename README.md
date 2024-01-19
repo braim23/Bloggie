@@ -4,3 +4,7 @@ A mini blog post webiste. The admin's got a CRUD functionality for blog posts, t
 ## How to run
 - Just update the database and OnModelCreating will seed you a super admin user with the following credentials:
 `superadmin@bloggie.com`, `1q2w3E*`.
+
+
+# Demo:
+https://hamzabraim.com/Home/Projects#blog
